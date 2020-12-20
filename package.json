@@ -1,6 +1,6 @@
 {
   "name": "git-fow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "* 初始化项目工程\r * 开发新功能\r * 测试人员测试 开发人员修改bug\r * 修复线上版本bug",
   "main": "index0.js",
   "scripts": {
